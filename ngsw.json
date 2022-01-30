@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1643562659805,
-  "index": "cny2022/index.html",
+  "timestamp": 1643562815341,
+  "index": "/cny2022/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "cny2022/favicon.ico",
-        "cny2022/index.html",
-        "cny2022/main.4d9c6060f602ccf3.js",
-        "cny2022/manifest.webmanifest",
-        "cny2022/polyfills.c443419e41b34a6b.js",
-        "cny2022/runtime.1f4655c49e001ad3.js",
-        "cny2022/styles.ff036da294325bd8.css"
+        "/cny2022/favicon.ico",
+        "/cny2022/index.html",
+        "/cny2022/main.4d9c6060f602ccf3.js",
+        "/cny2022/manifest.webmanifest",
+        "/cny2022/polyfills.c443419e41b34a6b.js",
+        "/cny2022/runtime.1f4655c49e001ad3.js",
+        "/cny2022/styles.ff036da294325bd8.css"
       ],
       "patterns": []
     },
@@ -29,37 +29,37 @@
         "ignoreVary": true
       },
       "urls": [
-        "cny2022/assets/animation.json",
-        "cny2022/assets/icons/icon-128x128.png",
-        "cny2022/assets/icons/icon-144x144.png",
-        "cny2022/assets/icons/icon-152x152.png",
-        "cny2022/assets/icons/icon-192x192.png",
-        "cny2022/assets/icons/icon-384x384.png",
-        "cny2022/assets/icons/icon-512x512.png",
-        "cny2022/assets/icons/icon-72x72.png",
-        "cny2022/assets/icons/icon-96x96.png"
+        "/cny2022/assets/animation.json",
+        "/cny2022/assets/icons/icon-128x128.png",
+        "/cny2022/assets/icons/icon-144x144.png",
+        "/cny2022/assets/icons/icon-152x152.png",
+        "/cny2022/assets/icons/icon-192x192.png",
+        "/cny2022/assets/icons/icon-384x384.png",
+        "/cny2022/assets/icons/icon-512x512.png",
+        "/cny2022/assets/icons/icon-72x72.png",
+        "/cny2022/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "cny2022/assets/animation.json": "3531280d28b82ceb17131acffe0a5dcfb4972427",
-    "cny2022/assets/icons/icon-128x128.png": "ad3d2aede1bd981d7e88e39fbc2de79a7015120e",
-    "cny2022/assets/icons/icon-144x144.png": "89b741d7a82c10839d3d7548261d47758bf274dc",
-    "cny2022/assets/icons/icon-152x152.png": "ad855b2c1134aa9b4d1abb923e046564fcb84365",
-    "cny2022/assets/icons/icon-192x192.png": "1aba4e59bdb1c097e33426f3983107443e2e624c",
-    "cny2022/assets/icons/icon-384x384.png": "fe30c9f9cbc2dbca0c5734f1338b876ea23b4af6",
-    "cny2022/assets/icons/icon-512x512.png": "0f1dc929a998a00dd2ecb5f52988e2ca4f0b92a6",
-    "cny2022/assets/icons/icon-72x72.png": "1d6e0cc109b8dece4e1cde4027841095daf1cca4",
-    "cny2022/assets/icons/icon-96x96.png": "be4322d4ca287c8b547a148adb872f0edab545aa",
-    "cny2022/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "cny2022/index.html": "0cf9c9ef3717dfffd7cbe5b601c0049310b87956",
-    "cny2022/main.4d9c6060f602ccf3.js": "2e447469c52a87531d9f24fd7a5fa81b34ab1b8c",
-    "cny2022/manifest.webmanifest": "7e3d2cd2434a53fb471ccebfa46545f89aab1342",
-    "cny2022/polyfills.c443419e41b34a6b.js": "fccfaebab4836eaf5b636d874636130fc320f48b",
-    "cny2022/runtime.1f4655c49e001ad3.js": "8f0f4d4081c1d9253b3ef9d775cbbd726e76b0ab",
-    "cny2022/styles.ff036da294325bd8.css": "b0993ca2ec49062fae190cbad8edbdedea304113"
+    "/cny2022/assets/animation.json": "3531280d28b82ceb17131acffe0a5dcfb4972427",
+    "/cny2022/assets/icons/icon-128x128.png": "ad3d2aede1bd981d7e88e39fbc2de79a7015120e",
+    "/cny2022/assets/icons/icon-144x144.png": "89b741d7a82c10839d3d7548261d47758bf274dc",
+    "/cny2022/assets/icons/icon-152x152.png": "ad855b2c1134aa9b4d1abb923e046564fcb84365",
+    "/cny2022/assets/icons/icon-192x192.png": "1aba4e59bdb1c097e33426f3983107443e2e624c",
+    "/cny2022/assets/icons/icon-384x384.png": "fe30c9f9cbc2dbca0c5734f1338b876ea23b4af6",
+    "/cny2022/assets/icons/icon-512x512.png": "0f1dc929a998a00dd2ecb5f52988e2ca4f0b92a6",
+    "/cny2022/assets/icons/icon-72x72.png": "1d6e0cc109b8dece4e1cde4027841095daf1cca4",
+    "/cny2022/assets/icons/icon-96x96.png": "be4322d4ca287c8b547a148adb872f0edab545aa",
+    "/cny2022/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/cny2022/index.html": "222e96239fe40a4414c80c72107938ab89d17106",
+    "/cny2022/main.4d9c6060f602ccf3.js": "2e447469c52a87531d9f24fd7a5fa81b34ab1b8c",
+    "/cny2022/manifest.webmanifest": "7e3d2cd2434a53fb471ccebfa46545f89aab1342",
+    "/cny2022/polyfills.c443419e41b34a6b.js": "fccfaebab4836eaf5b636d874636130fc320f48b",
+    "/cny2022/runtime.1f4655c49e001ad3.js": "8f0f4d4081c1d9253b3ef9d775cbbd726e76b0ab",
+    "/cny2022/styles.ff036da294325bd8.css": "b0993ca2ec49062fae190cbad8edbdedea304113"
   },
   "navigationUrls": [
     {
