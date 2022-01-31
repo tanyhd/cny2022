@@ -19,6 +19,7 @@
   <div fxLayout="row"
   fxLayoutAlign="space-around">
 <button mat-raised-button color="warn" (click)="generateTotoNum();
+                                                clearIntervals();
                                                 totoCount();
                                                 alertUserToto();
                                                 animateNum1(totoNum1Stop);
@@ -43,5 +44,3 @@
   <p *ngIf="totoNum6Start" class="huatNumber"><strong>{{totoNum6Start}}</strong></p>
   </div>
 </mat-card>
-
-
